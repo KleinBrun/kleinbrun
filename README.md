@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Next and other new Frameworks**
 
-- 👨‍💻 All of my projects are available at [...](...)
-
 - 💬 Ask me about **React, Laravel ,Yii2**
 
 - 📫 How to reach me **kleinbrun1997@gmail.com**
