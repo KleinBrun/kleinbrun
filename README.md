@@ -2,7 +2,7 @@
 <h3 align="center">A FullStack developer from Colombia</h3>
 <img align="rigth" alt="Codinf" width="400" scr="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"/>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/klein_brun4" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/klein_brun4?logo=twitter&style=for-the-badge" alt="https://twitter.com/klein_brun4" /></a> </p>
+<img src="https://img.shields.io/twitter/follow/https://twitter.com/klein_brun4?logo=twitter&style=for-the-badge" alt="https://twitter.com/klein_brun4" /></a> </p>
 
 - 🔭 I’m currently working on Konecta **KCRM Bancolombia**
 
