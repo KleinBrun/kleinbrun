@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Klein Brun</h1>
 <h3 align="center">A FullStack developer from Colombia</h3>
-
+<img src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif" alt="MDN" />
 - 🔭 I’m currently working on Konecta **KCRM Bancolombia**
 
 - 🌱 I’m currently learning **Next and other new Frameworks**
