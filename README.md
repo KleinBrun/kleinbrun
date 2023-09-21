@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Klein Brun</h1>
 <h3 align="center">A FullStack developer from Colombia</h3>
+<img aling="rigth" alt="Codinf" width="400" scr="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kleinbrun&label=Profile%20views&color=0e75b6&style=flat" alt="kleinbrun" /> </p>
 
